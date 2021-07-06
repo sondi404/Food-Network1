@@ -49,3 +49,15 @@ h1{
 .one-third img{
     width: 50%
 }
+.footer-class{
+    color: orangered
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color :cadetblue
+}
+footer p{
+    text-align: center;
+    color: white;
+}
