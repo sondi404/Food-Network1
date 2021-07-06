@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color:orange
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 200px;
 }
@@ -30,5 +30,22 @@ section{
 .about-me{
     background-image: url(images/shapes/7.png);
 }
+.my-recipes{
+    text-align: center;
+    margin-bottom: 100px;
+    margin: 100px
+}
+.one-third{
+    width: 33.3%
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 20px;
+    box-shadow: 20px 20px 60px gray;
+    border-radius: 20px
 
+
+
+}
+.one-third img{
+    width: 50%
 }
